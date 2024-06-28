@@ -1,26 +1,14 @@
 # 1) მომხმარებელს შემოატანინეთ 4 სხავდასხვა რიცხვი და ამ ოთხივე რიცხვზე მოახდინეთ არითმეტიკური ოპერაციები. +,-,*,//,**
 
-# mimateba
+num1=int(input("enter first num: "))
+num2=int(input("enter second num: "))
+num3=int(input("enter third num: "))
+num4=int(input("enter fourth num: "))
 
-print(35+95+3+7)
-
-# gamokleba
-
-print(35-95-3-75)
-
-# gamravleba
-
-print(35*95*3*7)
-
-#gayofa
-
-print(35 // 95 // 3 // 7)
-
-# axarisxeba
-
-print(35 ** 95 )
-
-
+print(num1 + num2 + num3 + num4)
+print(num1 - num2 - num3 - num4)
+print(num1 * num2 * num3 * num4)
+print(num1 // num2 // num3 // num4)
 
 
 
@@ -34,7 +22,11 @@ print(35 ** 95 )
 #  დაწერეთ პროგრამა სადაც შემოიტანთ თქვენი ოჯახის წევრების ასაკს და გამოიტანეთ ის თუ 
 # რამდენი წლის იქნებიან 20 წლის შემდეგ.
 
-print(8+20, 36+20, 37+20, 55+20, 57+20, 63+20, 84+20)
+dad_age=int(input("enter dad age: "))
+
+after_20_years=dad_age +20
+
+
 
 
 
