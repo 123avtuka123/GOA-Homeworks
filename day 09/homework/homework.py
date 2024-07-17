@@ -5,7 +5,6 @@ print(36>34)
 print(33>70)
 print(33>20)
 print(87>56)
-print(65>12)
 
 #nakleboba
 
@@ -14,7 +13,6 @@ print(93<98)
 print(74<35)
 print(45<75)
 print(63<34)
-print(23<64)
 
 #naklebi an toli
 
@@ -23,7 +21,6 @@ print(59<=45)
 print(34<=23)
 print(53<=37)
 print(14<=26)
-print(84<=25)
 
 #meti an toli
 
@@ -32,7 +29,6 @@ print(52>=36)
 print(56>=48)
 print(98>=37)
 print(65>=87)
-print(44>=44)
 
 #tolia
 
@@ -41,10 +37,14 @@ print(67==56)
 print(84==84)
 print(48==65)
 print(85==34)
-print(34==34)
 
+#ar aris toli
 
-
+print(36!=63)
+print(63!=28)
+print(48!=18)
+print(62!=62)
+print(73!=62)
 
 
 
