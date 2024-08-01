@@ -27,10 +27,18 @@ your_num=int (input("input your num: "))
 
 needed_num=int (10)
 
+num2=int (0)
+
 if your_num <= needed_num:
     print("true")
 else:
     print("false")
+
+if your_num >= num2:
+    print("true")
+else:
+    print("false")
+
 
 
 
